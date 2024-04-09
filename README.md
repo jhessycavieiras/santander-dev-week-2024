@@ -12,7 +12,7 @@ Este projeto faz parte da Dev Week disponibilizada pela [Dio](=https://www.dio.m
 
 O diagrama arquitetural do projeto foi disponibilizado pela [DIO](=https://github.com/digitalinnovationone/santander-dev-week-2024) ([escrito com Mermaid](=https://mermaid.js.org/)). A estrutura do sistema é meticulosamente organizada para separar claramente as responsabilidades entre suas diversas camadas. Da interface do usuário aos mecanismos de interação com sistemas externos, passando pelos adaptadores, casos de uso e as entidades centrais do domínio, cada elemento é estrategicamente posicionado para promover a modularidade, escalabilidade e manutenibilidade. Essa abordagem facilita a compreensão da colaboração entre os componentes para alcançar os objetivos do software, em total consonância com os princípios da Clean Architecture, refletidos até mesmo nas cores dos elementos.
 
-<img scr="santander-dev-week-2024\src\main\resources\imagens\DiagramaArquitetural.png">
+<img src= "https://github.com/jhessycavieiras/santander-dev-week-2024/blob/main/src/main/resources/imagens/DiagramaArquitetural.png">
 
 ## Estrutura de Diretórios
 
