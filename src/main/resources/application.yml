@@ -11,7 +11,7 @@ spring:
       enabled: true
 
 generative-ai:
-  provider: ${GENERATIVE_AI_PROVIDER:OPENAI}
+  provider: ${GENERATIVE_AI_PROVIDER:OPENAI} # Change to "GEMINI" if you want to use a Google Gemini service.
 
 openai:
   base-url: https://api.openai.com
